@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Staff-Management-System">
-    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="150" height="120">
+    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="150" height="150">
   </a>
   
 
