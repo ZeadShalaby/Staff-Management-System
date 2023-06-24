@@ -1,5 +1,6 @@
 package project0;
 
+import static com.sun.javafx.fxml.expression.Expression.add;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Font;
@@ -41,11 +42,16 @@ model.setColumnIdentifiers(columns);
 table.setModel(model);
 
 // Change A JTable Background Color, Font Size, Font Color, Row Height
-table.setBackground(Color.CYAN.brighter());
-table.setForeground(Color.black);
-Font font = new Font("", 1, 18);
-table.setFont(font);
-table.setRowHeight(30);
+Color color = new Color(173,173,173);
+Color colortable = new Color(200,200,200);
+
+table.setOpaque(true);
+table.setFillsViewportHeight(true);
+table.setBackground(colortable);
+
+JScrollPane scroll1 = new JScrollPane(table);
+table.getTableHeader().setBackground(colortable);
+add(scroll1, BorderLayout.CENTER);
 
 // create JTextFields to hold the value (that where we write)
 final JTextField textsend_Email = new JTextField ();
@@ -187,7 +193,7 @@ btnUpdate.addActionListener((ActionEvent e) -> {
 });
 
 
-
+frame.getContentPane().setBackground(color);
 frame.setSize(900, 420);
 frame.setLocationRelativeTo(null);
 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

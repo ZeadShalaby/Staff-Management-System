@@ -41,8 +41,17 @@ project() {
 		table.setModel(model);
 
 		// Change A JTable Background Color, Font Size, Font Color, Row Height
-		table.setBackground(Color.CYAN.brighter());
-		table.setForeground(Color.BLACK);
+		Color color = new Color(173,173,173);
+                Color colortable = new Color(200,200,200);
+
+                table.setOpaque(true);
+                table.setFillsViewportHeight(true);
+                table.setBackground(colortable);
+
+                JScrollPane scroll1 = new JScrollPane(table);
+                table.getTableHeader().setBackground(colortable);
+                add(scroll1, BorderLayout.CENTER);
+
 		Font font = new Font("", 1, 18);
 		table.setFont(font);
 		table.setRowHeight(30);
@@ -199,7 +208,7 @@ project() {
                 });
 
 
-
+                frame.getContentPane().setBackground(color);
 		frame.setSize(900, 420);
 		frame.setLocationRelativeTo(null);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

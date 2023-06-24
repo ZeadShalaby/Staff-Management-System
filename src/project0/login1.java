@@ -6,6 +6,7 @@
 package project0;
 
 
+import java.awt.Color;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -32,13 +33,16 @@ public class login1 extends JFrame
         label2 = new JLabel("pass : ");
  
         button.setBounds(300, 120, 100, 50);
+        button.setForeground(Color.orange);
+        button.setBackground(Color.GRAY);
         
         t1.setBounds(100,50,150,30);
         t2.setBounds(100,100,150,30);
         
         label1.setBounds(50,50,60,30);
         label2.setBounds(50,100,60,30);
-         
+        label1.setForeground(Color.orange); 
+        label2.setForeground(Color.orange);  
         frame.add(button);
         
         frame.add(t1);
@@ -47,6 +51,7 @@ public class login1 extends JFrame
         frame.add(label1);
         frame.add(label2);
         
+        frame.getContentPane().setBackground(Color.black );
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 300);
         frame.setLayout(null);  
