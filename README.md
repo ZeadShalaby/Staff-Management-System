@@ -19,10 +19,6 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-
-* [Usage](#usage)
-    * [Locally](#running-locally)
-    * [Via Container](#running-via-container)
 * [Contributing](#contributing)
 * [Authors](#authors)
 
@@ -34,80 +30,13 @@
 
 
 
-## Usage
 
-### Running Locally
-
-Make the migrations to update the database
-
-```bash
-    php artisan migrate
-```
-
-Seed the Database
-
-```bash
-    php artisan db:seed
-```
-
-Start the server and run watch
-
-```bash
-    php artisan serve
-```
-
-```bash
-    npx run watch
-````
-
-or alternatively run the .bat
-
-```bash
-    /autorun.bat
-```
-
-go to the following route
-
-```
-    http://127.0.0.1:8000/
-```
-
-### Running via container
-
-pull the image 
-
-```
-docker pull zodicslanser/lms
-``` 
-
- run the container
-
- ```
- docker run --name lms -p 8000:8000 -d zodicslanser/lms
- ```
- 
- connect to Container Terminal
- 
- ```
- docker exec -it lms /bin/sh
- ```
- 
- make the migrations to update the database
-
-```bash
-    php artisan migrate
-```
-
- go to the following page
- ```
- <container-ip>:8000
- ```
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
 
 * If you have suggestions for adding or removing projects, feel free
-  to [open an issue](https://github.com/ZodicSlanser/Learning-Management-System/issues/new) to discuss it, or directly
+  to [open an issue](https://github.com/ZeadShalaby/Staff-Management-System/issues/new) to discuss it, or directly
   create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
@@ -116,9 +45,9 @@ Any contributions you make are **greatly appreciated**.
 ### Creating A Pull Request
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/GoalFeature`)
+3. Commit your Changes (`git commit -m 'Add some GoalFeature'`)
+4. Push to the Branch (`git push origin feature/GoalFeature`)
 5. Open a Pull Request
 
 ## Authors
