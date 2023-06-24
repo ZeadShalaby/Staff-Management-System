@@ -4,7 +4,7 @@ Author By Zead Shalaby :- Staff Management System With (Java Swing)
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Staff-Management-System">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.vantagecircle.com%2Fstaff-management%2F&psig=AOvVaw08bcXQc09I072oAyGpoDhU&ust=1687722782139000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjQ4LjX3P8CFQAAAAAdAAAAABAJ" alt="Logo" width="80" height="80">
+    <img src="https://imgur.com/VR4h2wT" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Staff-Management-System</h3>
@@ -16,7 +16,7 @@ Author By Zead Shalaby :- Staff Management System With (Java Swing)
   </p>
 
 
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Staff-Management-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Staff-Management-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Staff-Management-System)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Staff-Management-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Staff-Management-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Staff-Management-System?style=social)
 
 ## Table Of Contents
 
@@ -33,10 +33,9 @@ Author By Zead Shalaby :- Staff Management System With (Java Swing)
 
 ## About The Project
 
-![Index Page Image](https://i.imgur.com/2mg13IV.png)
+![Index Page Image](https://imgur.com/R1qpYoa)
 
-A Simple LMS built as a mini-project for SWE-2 (CS352) under the supervision of Eng. Ahmed EL-Batanouni to apply
-concepts of Backend development and Containerization
+sss
 
 ## Built With
 
