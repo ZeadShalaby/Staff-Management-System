@@ -34,7 +34,7 @@
  <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="207" height="150">
 </p>
 
-
+ An Staff-Management-System system is technology designed to streamline core HR services and improve workforce productivity. It accomplishes these goals largely by automating labor-intensive, administrative tasks and using analytics to drive business decisions.
 
 ## Contributing
 
