@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Staff-Management-System">
-    <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="100" height="100"?style="border-radius:50%">
+    <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Staff-Management-System</h3>
@@ -32,64 +32,14 @@
 
 ## About The Project
 
-![Index Page Image](https://imgur.com/R1qpYoa)
+![Index Page Image](https://i.imgur.com/R1qpYoa.png)
 
 sss
 
-## Built With
 
-**Client:** Blade, Bootstrap
 
-**Server:** Apache, Laravel
 
-**Containerization Service:** Docker
 
-**Miscellaneous:** Github
-Actions, [Build and push Docker images](https://github.com/marketplace/actions/build-and-push-docker-images), [Docker Login](https://github.com/marketplace/actions/docker-login)
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
-
-* laravel
-
-```sh
-composer global require laravel/installer
-```
-
-Make sure that either **MySQL** or **MariaDB** are installed either manually or via **phpMyAdmin**
-
-### Installation
-
-Clone the project
-
-```bash
-  https://github.com/ZodicSlanser/Learning-Management-System
-```
-
-Go to the project directory
-
-```bash
-  cd Learning-Management-System
-```
-
-Install dependencies
-
-```bash
-  composer install
-```
-
-```bash
-  npm install
-```
 
 ## Usage
 
