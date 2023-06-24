@@ -20,10 +20,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
+
 * [Usage](#usage)
     * [Locally](#running-locally)
     * [Via Container](#running-via-container)
@@ -33,8 +30,9 @@
 ## About The Project
 
 ![Index Page Image](https://i.imgur.com/R1qpYoa.png)
+    <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="100" height="100">
+  
 
-sss
 
 
 
