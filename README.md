@@ -1,10 +1,9 @@
 
-Author By Zead Shalaby :- Staff Management System With (Java Swing)
 
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Staff-Management-System">
-    <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Staff-Management-System</h3>
