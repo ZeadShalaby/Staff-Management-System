@@ -28,10 +28,10 @@
  <img src="https://i.imgur.com/KmyU5zz.png" alt="Logo" width="900" height="500">
  <br/>
 <p >
- <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise User)" width="207" height="150">
+ <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="207" height="150">
  <img src="https://i.imgur.com/6Xxnqhv.png" alt="project(Admin)" width="207" height="150">
  <img src="https://i.imgur.com/JE3vHEI.png" alt="project(User)" width="207" height="150">
- <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login User)" width="207" height="150">
+ <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="207" height="150">
 </p>
 
 
