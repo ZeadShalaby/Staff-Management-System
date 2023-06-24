@@ -28,7 +28,7 @@
 ## About The Project
 
 
- <img src="https://i.imgur.com/VR4h2wT.png" alt="Logo" width="700" height="500">
+ <img src="https://i.imgur.com/R1qpYoa.png" alt="Logo" width="900" height="500">
   
 
 
