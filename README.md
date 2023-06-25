@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Staff-Management-System">
-    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="200" height="170">
   </a>
   
 
@@ -34,7 +34,7 @@
  <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
 </p>
 
- An Staff-Management-System system is technology designed to streamline core HR services and improve workforce productivity. It accomplishes these goals largely by automating labor-intensive, administrative tasks and using analytics to drive business decisions.
+* An Staff-Management-System system is technology designed to streamline core HR services and improve workforce productivity. It accomplishes these goals largely by automating labor-intensive, administrative tasks and using analytics to drive business decisions.
 
 ## Contributing
 
